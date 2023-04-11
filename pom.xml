@@ -27,9 +27,9 @@
 
 
     <scm>
-        <connection>scm:git:git@github.com:flapdoodle-oss/de.flapdoodle.os.git</connection>
-        <developerConnection>scm:git:git@github.com:flapdoodle-oss/de.flapdoodle.os.git</developerConnection>
-        <url>git@github.com:flapdoodle-oss/de.flapdoodle.os.git</url>
+        <connection>scm:git:git@github.com:jcook3701/de.flapdoodle.os.git</connection>
+        <developerConnection>scm:git:git@github.com:jcook3701/de.flapdoodle.os.git</developerConnection>
+        <url>git@github.com:jcook3701/de.flapdoodle.os.git</url>
       <tag>HEAD</tag>
   </scm>
 
