@@ -31,6 +31,7 @@ public enum LinuxDistribution implements Distribution {
   Oracle(OracleVersion.class, OsReleaseFiles.osReleaseFileNameMatches("Oracle")),
   OpenSUSE(OpenSUSEVersion.class, OsReleaseFiles.osReleaseFileNameMatches("openSUSE")),
   LinuxMint(LinuxMintVersion.class, OsReleaseFiles.osReleaseFileNameMatches("Linux Mint")),
+  PopOs(PopOsVersion.class, OsReleaseFiles.osReleaseFileNameMatches("Pop!_OS")),
   Debian(DebianVersion.class, OsReleaseFiles.osReleaseFileNameMatches("Debian")),
   Amazon(AmazonVersion.class, AmazonVersion.osVersionMatches(".*amzn.*"))
   ;
